@@ -1,4 +1,5 @@
-# Demo
+# OpenCV_basics
+
 This is a repository containing my work on Face detection and Face recognition. 
 
 I have used the inbuilt haar classifier and LBPHFaceRecognizer for face detection and face recognition respectively. 
